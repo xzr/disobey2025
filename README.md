@@ -27,4 +27,5 @@ Walkthrough: https://github.com/frendsick/pearl-hunt
 ## Core team name badges
 
 Badge: https://www.aliexpress.com/item/1005005446227284.html
+
 Code: https://github.com/fossasia/led-name-badge-ls32
