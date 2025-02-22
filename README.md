@@ -24,6 +24,12 @@ Slides: https://github.com/idanhurja/Disobey2025_abloy_workshop
 
 Walkthrough: https://github.com/frendsick/pearl-hunt
 
+## Testausserveri CTF Challenges
+https://github.com/Testausserveri/ctf-disobey-2025
+
+## Depili's CTF challenges
+https://github.com/depili/disobey_2025_ctf_challenges/
+
 ## Core team name badges
 
 Badge: https://www.aliexpress.com/item/1005005446227284.html
