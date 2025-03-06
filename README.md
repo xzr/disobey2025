@@ -4,9 +4,6 @@ Links to slides/repos/walkthroughs/whatever for talks/workshops/ctfs/whatever at
 
 # Talks
 
-## All the VODs of talks
-https://sectube.tv/events/disobey
-
 ## Sounds from the basement: Extreme low-level game cheating
 
 Slides: https://github.com/jussihi/Presentations/tree/master/disobey_2025
